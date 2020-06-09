@@ -1,6 +1,6 @@
-# Predicting-Loan-Credit-Risk-using-Apache-Spark-Machine-Learning-Random-Forests
-- Built a random forest of decision trees model using German Credit Data Set, which can risks of
-bank credit loans.
-- Used Area Under an ROC Curve to evaluate the predictions.
-- Tuned Model parameter, adjusted the depth of the decision tree and the number of decision trees
-to improve generalization ability.
+# Predicting House Prices on Kaggle
+•Built Multilayer Perceptron model and used squared loss function using Mxnet, which predict
+house prices and got top 10% ranking (375th of 4422).
+• Conducted data processing using Python Pandas, which standardize the continuous numerical
+values and convert discrete values into indicative features.
+• Tuned Parameters, use dropout, weight decay, adam optimization algorithm,k-fo
